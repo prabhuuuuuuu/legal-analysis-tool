@@ -17,29 +17,6 @@ An NLP-driven application leveraging large language models to analyze legal inci
 - **AI**: Llama-7b LLM API
 - **Architecture**: RESTful API
 
-## Setup
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/legal-analysis-platform.git
-   cd legal-analysis-platform
-   ```
-
-2. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. Create a `.env` file in the project root with your API key:
-   ```
-   LLAMA_API_KEY=your_api_key_here
-   ```
-
-4. Run the application:
-   ```
-   python app.py
-   ```
-
 ## Deployment
 
 This application is ready for deployment on Vercel:
